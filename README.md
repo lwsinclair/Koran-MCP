@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/celalkhalilov-koran-mcp-badge.png)](https://mseep.ai/app/celalkhalilov-koran-mcp)
+
 # Kuran-ı Kerim MCP Server
 
 Bu proje, Model Context Protocol (MCP) kullanarak Kuran-ı Kerim API'lerini sağlayan bir server'dır.
